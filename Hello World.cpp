@@ -1,5 +1,5 @@
 #include<iosteam>
-using std namespace;
+using namespace std;
 
 int main()
 {
